@@ -1,48 +1,40 @@
 body {
-    background-color: darkslategrey;
+  background-color: darkslategrey;
 }
-
 header {
-    text-align: center;
-    color: white;
-    text-shadow: 5px 5px 10px rgb(6, 10, 10);
-
+  text-align: center;
+  color: white;
+  text-shadow: 5px 5px 10px rgb(6, 10, 10);
 }
-
 section {
-    background-color: white;
-    padding: 10px;
-    width: 400px;
-    margin: auto;
-    border-radius: 10px;
-    box-shadow: 5px 5px 10px rgb(6, 10, 10);
+  background-color: white;
+  padding: 10px;
+  width: 400px;
+  margin: auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px rgb(6, 10, 10);
 }
-
 div {
-    padding: 10px;
-    text-align: center;
-    font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  font-weight: bold;
 }
-
 .button {
-    background-color: darkslategrey;
-    color: white;
-    text-shadow: 5px 5px 10px rgb(6, 10, 10);
-    width: 133px;
-    height: 30px;
-    font: 14pt Arial; 
-    cursor: pointer;
-    border-radius: 10px;  
-    box-shadow: 4px 4px 8px rgb(6, 10, 10);
+  background-color: darkslategrey;
+  color: white;
+  text-shadow: 5px 5px 10px rgb(6, 10, 10);
+  width: 133px;
+  height: 30px;
+  font: 14pt Arial;
+  cursor: pointer;
+  border-radius: 10px;
+  box-shadow: 4px 4px 8px rgb(6, 10, 10);
 }
-
-
 .multiplicationTable {
-    font-weight: bold;
+  font-weight: bold;
 }
-
-footer{
-    text-align: center;
-    font-style: italic;
-    color: white;
+footer {
+  text-align: center;
+  font-style: italic;
+  color: white;
 }
